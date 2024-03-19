@@ -1,0 +1,9 @@
+Subject*!*Body
+
+#$#Order#$# - SO
+#$#PO#$# - Customer PO
+#$#Customer#$# - Customer Ship To Name
+#$#ShipDate#$# - Ship Date
+#$#TrackingNo#$# - Tracking No
+#$#ShipVia#$# - Ship Via
+#$#Address#$# - Ship to Address
